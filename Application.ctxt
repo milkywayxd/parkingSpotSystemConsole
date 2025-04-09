@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Application
+comment0.text=\r\n\ Console\ interface\ including\ the\ main()method\ and\ handling\ all\ inputs\ and\r\n\ outputs.\r\n\ @author\ (Xiaodan\ Cao)\r\n\ @version\ (1.0)\ 16/04/2021\r\n
+comment1.params=
+comment1.target=Application()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Application\r\n
+comment2.params=
+comment2.target=void\ displayMenu()
+comment2.text=\r\n\ This\ is\ the\ main()method\ and\ handling\ all\ inputs\ and\ outputs.\r\n\r\n\ @param\ \ null\r\n\ @return\ null\r\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment4.params=indexS\ indexV
+comment4.target=void\ listSlots(int,\ int)
+comment5.params=
+comment5.target=void\ parkCar()
+comment6.params=
+comment6.target=void\ findCar()
+comment7.params=
+comment7.target=void\ removeCar()
+comment8.params=
+comment8.target=void\ addSlot()
+comment9.params=
+comment9.target=void\ deleteSlot()
+numComments=10

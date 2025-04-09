@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Car
+comment0.text=\r\n\ Java\ class\ Car\ with\ methods\ to\ manage\ Car\ objects\r\n\r\n\ @author\ (Xiaodan\ Cao\ 2790866)\r\n\ @version\ (1.0\ 17/04/2021)\r\n
+comment1.params=newReg\ newOwner\ staffCar
+comment1.target=Car(java.lang.String,\ java.lang.String,\ boolean)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Car\r\n
+comment2.params=
+comment2.target=java.lang.String\ getReg()
+comment2.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+comment3.params=reg
+comment3.target=void\ setReg(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getOwner()
+comment5.params=owner
+comment5.target=void\ setOwner(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getIfStaff()
+comment7.params=ifStaff
+comment7.target=boolean\ staffCar(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

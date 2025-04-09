@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=ParkingSlot
+comment0.text=\r\n\ class\ ParkingSlot\ with\ method\ is\ designed\ to\ manage\ parking\ slots.\r\n\r\n\ @author\ (Xiaodan\ Cao\ 2790866)\r\n\ @version\ (1.0\ 16/04/2021)\r\n
+comment1.params=newSlotId\ newisStaff\ newisOccupied\ newReg\ newOwner\ newstaffCar
+comment1.target=ParkingSlot(java.lang.String,\ boolean,\ boolean,\ java.lang.String,\ java.lang.String,\ boolean)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ ParkingSlot\r\n
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=java.lang.String\ getSlotId()
+comment2.text=\r\n\ \r\n\r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+comment3.params=slotId
+comment3.target=void\ setSlotId(java.lang.String)
+comment4.params=
+comment4.target=Car\ getCar()
+comment5.params=car
+comment5.target=void\ setCar(Car)
+comment6.params=slotId
+comment6.target=boolean\ isStaff(java.lang.String)
+comment7.params=slot
+comment7.target=boolean\ isOccupied(java.lang.String)
+comment8.params=car\ slotId
+comment8.target=void\ removeCar(Car,\ java.lang.String)
+comment9.params=newId
+comment9.target=void\ Occupied(java.lang.String)
+numComments=11

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=CarPark
+comment0.text=\r\n\ Class\ CarPark\ is\ designed\ for\ maintaining\ a\ list\ of\ available\ parking\ slots.\r\n\r\n\ @author\ (Xiaodan\ Cao\ 2790866)\r\n\ @version\ (1.0\ 16/04/2021)\r\n
+comment1.params=
+comment1.target=CarPark()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ CarPark\r\n
+comment2.params=ps
+comment2.target=void\ addSlot(ParkingSlot)
+comment2.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+comment3.params=indexA\ indexB
+comment3.target=void\ initialCarPark(int,\ int)
+comment4.params=
+comment4.target=java.util.ArrayList\ getSlotList()
+comment5.params=
+comment5.target=void\ printSlot()
+comment6.params=slotIndex\ isOccupied
+comment6.target=void\ deleteSlot(int,\ boolean)
+numComments=7
