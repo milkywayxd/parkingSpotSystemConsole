@@ -1,5 +1,5 @@
 
-PROJECT TITLE:
+PROJECT TITLE:                      Parking Spot System - Console (Text Based)
 
 PURPOSE OF PROJECT:                 A small system that will help manage cars at a parking site for a company.
                                     CarPark is responsible for maintaining a list of available parking slots. You should be able to
